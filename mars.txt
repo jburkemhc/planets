@@ -2,4 +2,6 @@ Cold and dry, but everything is my favorite color.
 Only populated by cats and dogs and polar bears.
 The mummy will appreciate the lack of humidity!
 Swamp thing would be miserable, however.
-This is my conflicting change
+Poor swamp thing!
+
+>>>>>>> a3a4e94ffdcbe66ef667a6a4b56ada782106862b
